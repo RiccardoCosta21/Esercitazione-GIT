@@ -6,7 +6,20 @@
 
 
 body{
-
+    display: flex;
+    
     background-color: black;
     color: antiquewhite;
+}
+
+
+.container{
+    width: 60%;
+    background-color: red;
+}
+
+
+footer{
+    width: 40%;
+    background-color: green;
 }
