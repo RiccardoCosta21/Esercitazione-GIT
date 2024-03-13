@@ -15,11 +15,13 @@ body{
 
 .container{
     width: 60%;
+    height: 100vw;
     background-color: red;
 }
 
 
 footer{
     width: 40%;
+    height: 100vh;
     background-color: green;
 }
